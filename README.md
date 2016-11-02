@@ -16,3 +16,5 @@ This project requires a computer and internet.
 ## Organisation
 
 Sarah is buying the drinks and Paul creates the decorations.
+
+                               -- last updated on Nov. 2, 2016
